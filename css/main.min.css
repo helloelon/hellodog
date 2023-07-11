@@ -198,9 +198,9 @@ body {
   color: #fff;
   font-size: 2.5vw;
   background: #ffbd84;
-  background: -moz-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-  background: -webkit-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-  background: linear-gradient(to right, #4e9b41 0%, #08cab3 100%);
+  background: -moz-linear-gradient(left, #d900cd 0%, #07dbe7 100%);
+  background: -webkit-linear-gradient(left, #d900cd 0%, #07dbe7 100%);
+  background: linear-gradient(to right, #d900cd 0%, #07dbe7 100%);
   -webkit-box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
   box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
 }
@@ -313,9 +313,9 @@ div {
   pointer-events: none;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-    background: -moz-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-    background: -webkit-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-    background: linear-gradient(to right, #4e9b41 0%, #08cab3 100%);
+    background: -moz-linear-gradient(left, #d900cd 0%, #07dbe7 100%);
+    background: -webkit-linear-gradient(left, #d900cd 0%, #07dbe7 100%);
+    background: linear-gradient(to right, #d900cd 0%, #07dbe7 100%);
     -webkit-box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
     box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
 }
@@ -672,9 +672,9 @@ div {
 .btn.buy-now:hover {
   color: #fff;
   background: #ffbd84;
-  background: -moz-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-  background: -webkit-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-  background: linear-gradient(to right, #4e9b41 0%, #08cab3 100%);
+  background: -moz-linear-gradient(left, #d900cd 0%, #07dbe7 100%);
+  background: -webkit-linear-gradient(left, #d900cd 0%, #07dbe7 100%);
+  background: linear-gradient(to right, #d900cd 0%, #07dbe7 100%);
   -webkit-box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
   box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
 }
@@ -806,9 +806,9 @@ ul.link-dex {
   padding: 15px;
   text-decoration: none;
   color: #d8d8d8;
-  background: -moz-linear-gradient(left, #28b9f3 0%, #2efb60 100%);
-  background: -webkit-linear-gradient(left, #28b9f3 0%, #2efb60 100%);
-  background: linear-gradient(to right, #28b9f3 0%, #2efb60 100%);
+  background: -moz-linear-gradient(left, #e828f3 0%, #2efbd5 100%);
+  background: -webkit-linear-gradient(left, #e828f3 0%, #2efbd5 100%);
+  background: linear-gradient(to right, #e828f3 0%, #2efbd5 100%);
   -webkit-box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
   box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
 }
